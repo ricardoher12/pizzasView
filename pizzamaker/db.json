@@ -1,0 +1,24 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Mr. Nice",
+      "image": "src/public/wallpaper.jpg",
+      "form": "Cuadrada",
+      "size": "Personal",
+      "ingredients": "Salsa, queso, tomate, cebolla, caramelo",
+      "hasBorder": "Si",
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "name": "Hawaiina7",
+      "image": "src/public/wallpaper.jpg",
+      "form": "Rectangular",
+      "size": "Personal",
+      "ingredients": "Salsa, queso, tomate, cebolla",
+      "hasBorder": "Si",
+      "favorite": true
+    }
+  ]
+}

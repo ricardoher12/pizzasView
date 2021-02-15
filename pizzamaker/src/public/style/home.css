@@ -1,0 +1,36 @@
+
+  .paral {
+      min-height: 638px;
+      background-attachment: fixed;
+      background-size: cover;
+      background-position: 50% 50%;
+    font-family: American Typewriter, serif;
+      } 
+  
+    /* Paragraph for Parallax Section */ 
+  .paral p {
+    font-size: 24px;
+    color:black;
+    text-align: center;
+    line-height: 60px;
+    text-shadow:0 0 10px white;
+    
+    }
+     
+    /* Heading for Parallax Section */ 
+    .paral h1 {
+    color:black;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 60px;
+    line-height: 100px;
+    text-shadow:0 0 10px white;
+    }
+  
+  .paralsec {
+     background-image: url('../wallpaper.jpg');
+    }
+     
+     
+    .jumbotron{margin-bottom: 0;}
+    
